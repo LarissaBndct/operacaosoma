@@ -1,0 +1,15 @@
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.csproj.AssemblyReference.cache
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.AssemblyInfoInputs.cache
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.AssemblyInfo.cs
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.csproj.CoreCompileInputs.cache
+C:\informatica\orientaçao a objetos\operacoes\bin\Debug\net7.0\operacoes.exe
+C:\informatica\orientaçao a objetos\operacoes\bin\Debug\net7.0\operacoes.deps.json
+C:\informatica\orientaçao a objetos\operacoes\bin\Debug\net7.0\operacoes.runtimeconfig.json
+C:\informatica\orientaçao a objetos\operacoes\bin\Debug\net7.0\operacoes.dll
+C:\informatica\orientaçao a objetos\operacoes\bin\Debug\net7.0\operacoes.pdb
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.dll
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\refint\operacoes.dll
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.pdb
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\operacoes.genruntimeconfig.cache
+C:\informatica\orientaçao a objetos\operacoes\obj\Debug\net7.0\ref\operacoes.dll
